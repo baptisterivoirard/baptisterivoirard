@@ -14,9 +14,9 @@ Welcome to my GitHub profil ! 🚀
     - BioinfoTool :**[Cell designer, MIIC, Blast...]**
 
 ## 📌 My Projects
-🔹 [ML for survey data analysis](lien) - Petite description du projet 1  
-🔹 [Network reconstruction project ](lien) - Petite description du projet 2  
-🔹 [scRAN-seq analysis](lien) - Petite description du projet 3  
+🔹 [ML for survey data analysis](lien) - 
+🔹 [Network reconstruction project ](lien) - 
+🔹 [scRAN-seq analysis](lien) - 
 
 ## 📫 Contact Me
 - 📧 Email : [baptiste.rivoirard@aixial.com](mailto:baptiste.rivoirard@aixial.com)
